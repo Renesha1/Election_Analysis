@@ -1,6 +1,7 @@
 # Election_Analysis
  ## Overview
-+ The purpose of this analiysis is to submit the correct election results to the election committee. All submission of votes were audited so the winner will be selected with no error
++ The purpose of this analiysis is to submit the correct election results to the election committee.
++  All submission of votes were audited so the winner will be selected with no error.
 
 ## Election_Audit_Results
  * TOTAL VOTES
@@ -17,7 +18,7 @@
   + Her winning vote count is 272,892 which turned out tobe 73.8% of all votes.
 
 ## Summary and Proposal
-  +For any election going forwardthis data can be used to calculate the total number of votes for other counties and also would be able to calculate data for a longer list of      counites simultaneously. 
-  + using this script can calculate one county's electiib results and data with minute changes to the code, such as discontinuing the county list and focusing on one county. 
-  + The list of candidates can also ve changed to generate the winner for that specific county. 
-  + Overall , This script has multiple uses with only small changes which will calculate data quicker and beneficial to the election commitee.
+  + For any election going forward this data can be used to calculate the total number of votes for other counties and also would be able to calculate data for a longer list of       counties simultaneously. 
+  + Using this script can calculate one county's election results and data with minute changes to the code, such as discontinuing the county list and focusing on one county. 
+  + The list of candidates can also be changed to generate the winner for that specific county. 
+  + Overall , This script has multiple uses with only small changes which will calculate data quicker and be a great asset to the election commitee.
